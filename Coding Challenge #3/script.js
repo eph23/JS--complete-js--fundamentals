@@ -46,6 +46,7 @@ const john = {
 mark.calcBMI();
 john.calcBMI();
 
+// NOTE: Objective 3
 if (mark.bmi > john.bmi) {
     console.log(
         `${mark.fullName}'s BMI (${mark.bmi}) is higher than ${john.fullName}'s BMI (${john.bmi})!`
