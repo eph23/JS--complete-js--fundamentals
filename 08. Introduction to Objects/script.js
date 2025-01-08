@@ -2,7 +2,7 @@
 
 // Object literal
 const eph = {
-    fistName: "Ephraim",
+    firstName: "Ephraim",
     lastName: "S",
     age: 2037 - 1988,
     job: "Web Dev",
